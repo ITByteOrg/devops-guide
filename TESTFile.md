@@ -1,5 +1,7 @@
 This is a dummy file while I practice using Obsidian.
 
+[[README]]
+
 Another change to the file
 
 Another change after staging
