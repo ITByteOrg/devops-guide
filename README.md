@@ -1,24 +1,56 @@
-# DevOps Guide
-A hands-on journey in building a complete DevOps stack from the ground up, exploring real-world challenges, trade-offs, and practical solutions. You will find my notes, instructions and observations during my DevOps Stack journey in this repo.
+# **DevOps Guide**  
+_A hands-on journey in building a complete DevOps stack from the ground up, exploring real-world challenges, trade-offs, and practical solutions._
 
-## License
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+## **Overview**
+This repository documents my process of building a **DevOps workflow** from scratch, focusing on automation, infrastructure, security, and observability.
+
+## **DevOps Stack**
+### **Core Components**
+- **Documentation**: Obsidian  
+- **Application**: Simple Hello World app  
+- **IDE**: Anaconda (for data science & machine learning)  
+- **Programming Language**: Python (pip & conda)  
+- **Version Control**: Git  
+
+### **CI/CD & Security**
+- **Continuous Integration & Delivery**: GitHub Actions (YAML workflows & automation)  
+- **Security Scanning**: SonarQube, Checkmarx, BlackDuck, TruffleHog, Prisma Cloud  
+
+### **Infrastructure & Cloud**
+- **Cloud Provider**: Google Cloud Platform (dev-instance, UAT-instance, prod-instance)  
+- **Containerization**: Docker (for local testing)  
+- **Orchestration**: Kubernetes (pod management & networking)  
+- **Image Management**: JFrog Artifactory (Docker and binaries)  
+- **Package Management**: Nexus (Python dependencies)  
+
+### **Automation & Monitoring**
+- **Configuration Management**: Ansible (automates infrastructure setup)  
+- **Infrastructure as Code (IaC)**: Terraform (provisions cloud resources)  
+- **Monitoring**: Prometheus  
+- **Observability & Dashboards**: Grafana  
+
+---
+## **Repositories & Organization**
+This repository is part of a broader DevOps stack, broken into specialized repositories:
+
+| **Repo Name**         | **Purpose** |
+|-----------------------|-------------|
+| `devops-guide`       | Documentation & project workflow |
+| `devops-world`       | Python app code, CI/CD workflows, dependencies |
+| `devops-infra`       | Terraform, Ansible, K8s manifests, cloud provisioning |
+| `devops-security`    | Security scanning configs (SonarQube, Checkmarx, Prisma, etc.) |
+| `devops-monitoring`  | Prometheus, Grafana dashboards, alerting rules |
+| `devops-ahk`        | AHK automation scripts (for efficiency) |
+
+---
+## **License**
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
 See the full license [here](https://creativecommons.org/licenses/by-nc/4.0/).
-## Installation
-NA
-## Usage
-This repository contains documentation on DevOps workflows, including:
-- CI/CD pipelines
-- Infrastructure as Code (IaC)
-- Security best practices
-## Contributions
+
+Would you like me to refine anything further or add specific sections, such as installation instructions or roadmap details? 🚀
+
+## **Contributions**
 At this time, this repository is not open for external contributions. However, you are welcome to explore the content, learn from it, and use it within the terms of the **CC BY-NC 4.0** license. Thank you for your interest!
 
-## Contact
+## **Contact**
 For questions or suggestions, reach out via [GitHub Issues](https://github.com/ITByteEnthusiast/devops-guide/issues).
-
-
-
-
-
-
