@@ -1,6 +1,6 @@
 This is a dummy file while I practice using Obsidian.
 
-[[README]]
+[[README]](./README.md)
 
 Another change to the file
 
