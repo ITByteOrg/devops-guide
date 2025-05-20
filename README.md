@@ -47,8 +47,6 @@ This repository is part of a broader DevOps stack, broken into specialized repos
 This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
 See the full license [here](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Would you like me to refine anything further or add specific sections, such as installation instructions or roadmap details? 🚀
-
 ## **Contributions**
 At this time, this repository is not open for external contributions. However, you are welcome to explore the content, learn from it, and use it within the terms of the **CC BY-NC 4.0** license. Thank you for your interest!
 
