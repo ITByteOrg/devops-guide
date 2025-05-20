@@ -1,5 +1,5 @@
 # DevOps Guide
-A comprehensive guide to DevOps principles, workflows, and practices. I'll add my notes, instructions and observations during a full DevOps Stack journey.
+A hands-on journey in building a complete DevOps stack from the ground up, exploring real-world challenges, trade-offs, and practical solutions. You will find my notes, instructions and observations during my DevOps Stack journey in this repo.
 
 ## License
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
