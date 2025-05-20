@@ -1,6 +1,7 @@
 This is a dummy file while I practice using Obsidian.
 
-[[README]](./README.md)
+[README](README.md)
+[LICENSE](LICENSE.md)
 
 Another change to the file
 
