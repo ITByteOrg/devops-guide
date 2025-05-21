@@ -1,25 +1,20 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+# Creative Commons Attribution 4.0 International License (CC-BY-4.0)
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license.  
+You are free to **share** (copy, distribute, and transmit) and **adapt** (remix, transform, and build upon) this work **for any purpose, including commercial use**, as long as you **give proper attribution**.
 
-## **Section 1 – Definitions**
-- **Licensed Material**: The creative work covered by this Public License.
-- **Licensed Rights**: Rights granted under copyright and similar rights.
-- **Licensor**: The individual or entity granting rights under this Public License.
-- **You**: The individual or entity exercising the Licensed Rights.
+## Attribution Requirements
+- **Credit must be given to:** [ITByteEnthusiast](https://github.com/ITByteEnthusiast)  
+- **Original repository:** [ITByteEnthusiast/devops-guide](https://github.com/ITByteEnthusiast/devops-guide)  
+- **License details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)  
+- **Modifications:** If modified, changes must be clearly stated.  
 
-## **Section 2 – Scope**
-### **2.1 – License Grant**
-Subject to the terms and conditions of this Public License, the Licensor grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to:
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material.
+## Contact Information
+For inquiries, please use: **182819753+ITByteEnthusiast@users.noreply.github.com**  
 
-### **2.2 – Conditions**
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **NonCommercial** — You may not use the material for commercial purposes.
+---
 
-## **Section 3 – Disclaimer**
-- The Licensed Material is provided "as-is" without warranties.
-- The Licensor is not responsible for any claims or damages.
+🔗 **Full license details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)  
 
-## **Section 4 – Notices
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
