@@ -30,7 +30,7 @@ Before creating your GitHub account and repositories, consider the following imp
 
 ## **Confirm GitHub Account Creation**  
 
-Before proceeding to [**Setup GitHub Repositories**](setup-github-repositories), ensure that you have successfully created your GitHub account. If you haven’t, refer to the **previous section** before continuing.
+Before proceeding to [**Setup GitHub Repositories**](setup-github-repositories.md), ensure that you have successfully created your GitHub account. If you haven’t, refer to the **previous section** before continuing.
 
 ## **AI is Your Friend** 🤖  
 
