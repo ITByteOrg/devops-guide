@@ -67,5 +67,5 @@ For now, I’ve chosen **not to configure GitHub Actions or branch protection ru
 
 ## Next Step
 
-Now that your repository setup is complete, it's time to load your application! Head over to the [README](https://github.com/ITByteEnthusiast/devops-world/blob/main/README.md)) in devops-world for the next steps.
+Now that your repository setup is complete, it's time to load your application! Head over to the [README](https://github.com/ITByteEnthusiast/devops-world/blob/main/README.md) in devops-world for the next steps.
 
