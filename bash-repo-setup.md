@@ -9,7 +9,7 @@ For those managing multiple repositories, automating the setup with **BASH scrip
 By following this guide, you will learn:
 
 - [ ] How to **write a BASH script** for automated repo creation    
-- [ ] How to **authenticate GitHub CLI with a Personal Access Token (PAT)**
+- [ ] How to **authenticate GitHub CLI with a SSH**
 - [ ] How to **run the script and verify repo creation**
 
 ## Why Choose This Method?
@@ -120,3 +120,6 @@ echo "All repositories have been set up as private on GitHub!"
    ```  
 6. Verify repository creation on GitHub.  
 
+## Next Step
+
+Now that your repository setup is complete, it's time to load your application! Head over to the [README](https://github.com/ITByteEnthusiast/devops-world/blob/main/README.md)) in devops-world for the next steps.
