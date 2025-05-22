@@ -63,5 +63,9 @@ For now, I’ve chosen **not to configure GitHub Actions or branch protection ru
 
 📌 If you prefer to set them up now, refer to GitHub’s official documentation:  
 - [GitHub Actions Setup](https://docs.github.com/actions)  
-- [Branch Protection Rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-and-merges-in-your-repository/about-branch-protection-rules)  
+- [Branch Protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule) 
+
+## Next Step
+
+Now that your repository setup is complete, it's time to load your application! Head over to the [README](https://github.com/ITByteEnthusiast/devops-world/blob/main/README.md)) in devops-world for the next steps.
 

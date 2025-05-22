@@ -33,14 +33,14 @@ This repository documents my process of building a **DevOps workflow** from scra
 ## **Repositories & Organization**
 This repository is part of a broader DevOps stack, broken into specialized repositories:
 
-| **Repo Name**         | **Purpose** |
-|-----------------------|-------------|
-| `devops-guide`       | Documentation & project workflow |
-| `devops-world`       | Python app code, CI/CD workflows, dependencies |
-| `devops-infra`       | Terraform, Ansible, K8s manifests, cloud provisioning |
-| `devops-security`    | Security scanning configs (SonarQube, Checkmarx, Prisma, etc.) |
-| `devops-monitoring`  | Prometheus, Grafana dashboards, alerting rules |
-| `devops-ahk`        | AHK automation scripts (for efficiency) |
+| **Repo Name**       | **Purpose**                                                    |
+| ------------------- | -------------------------------------------------------------- |
+| `devops-guide`      | Documentation & project workflow                               |
+| `devops-world`      | Python app code, CI/CD workflows, dependencies                 |
+| `devops-infra`      | Terraform, Ansible, K8s manifests, cloud provisioning          |
+| `devops-security`   | Security scanning configs (SonarQube, Checkmarx, Prisma, etc.) |
+| `devops-monitoring` | Prometheus, Grafana dashboards, alerting rules                 |
+| `devops-ahk`        | AHK automation scripts (for efficiency)                        |
 
 ---
 ## **License**

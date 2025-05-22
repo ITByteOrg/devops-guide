@@ -1,4 +1,4 @@
-# **Setup GitHub Repositories (Overview)
+# **Setup GitHub Repositories (Overview)**
 
 Before proceeding, ensure that you have successfully created your **GitHub account**. If you haven’t, refer to the **previous section** before continuing.  
 
