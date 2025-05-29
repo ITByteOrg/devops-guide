@@ -11,6 +11,7 @@ This repository documents my process of building a **DevOps workflow** from scra
 - **IDE**: Anaconda (for data science & machine learning)  
 - **Programming Language**: Python (pip & conda)  
 - **Version Control**: Git  
+- **Framework:** Flask (Python based framework for dynamic content) 
 
 ### **CI/CD & Security**
 - **Continuous Integration & Delivery**: GitHub Actions (YAML workflows & automation)  
@@ -22,6 +23,7 @@ This repository documents my process of building a **DevOps workflow** from scra
 - **Orchestration**: Kubernetes (pod management & networking)  
 - **Image Management**: JFrog Artifactory (Docker and binaries)  
 - **Package Management**: Nexus (Python dependencies)  
+- **Static Content:** Nginx (Reverse proxy, static content, fallback)
 
 ### **Automation & Monitoring**
 - **Configuration Management**: Ansible (automates infrastructure setup)  
