@@ -58,7 +58,7 @@ For each repo, follow these steps:
    - Enable **security scanning tools** for vulnerability detection  
    - Define **access controls** for collaborators and teams  
 
-### **Skipping the Last Two Steps**  
+### Skipping the Last Two Steps
 For now, I’ve chosen **not to configure GitHub Actions or branch protection rules** yet. These steps will be addressed later **once the workflow is finalized**.  
 
 📌 If you prefer to set them up now, refer to GitHub’s official documentation:  
