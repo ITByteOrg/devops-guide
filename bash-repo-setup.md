@@ -20,7 +20,7 @@ By following this guide, you will learn:
 
 📌Instead of manually creating each repository, I’ve opted to **use a BASH script** for automation. This approach streamlines the setup process, making it more efficient and repeatable.  
 
-### **Prerequisites**  
+### Prerequisites
 Ensure you have the following before running the script:  
 - [ ] A **GitHub account** with the necessary permissions to create repositories  
 - [ ] **GitHub CLI (`gh`)** installed ([Installation Guide](https://cli.github.com/))  
@@ -31,7 +31,7 @@ GitHub provides a step-by-step guide for setting up SSH authentication. You can 
 Alternatively, you can ask AI:  
 > "How do I set up SSH authentication for GitHub?"  
 
-### **BASH Script: Automating Repository Creation**  
+### BASH Script: Automating Repository Creation
 This script automates the creation of multiple repositories for your DevOps journey. It sets repository visibility, initializes Git, and configures basic settings.  
 
 💡 **Before running the script:**  
@@ -103,7 +103,7 @@ done
 
 echo "All repositories have been set up as private on GitHub!"
 ```
-### **Running the Script**  
+### Running the Script
 1. Save the script as `setup_repos.sh`.
 2. Open a DOS terminal and navigate to the script location.  
 3. The _first time_ you run the script you will need to establish a connection to GitHub
