@@ -6,10 +6,10 @@ This repository documents my process of building a **DevOps workflow** from scra
 
 ## **DevOps Stack**
 ### **Core Components**
-- **Documentation**: Obsidian  
-- **Application**: Simple Hello World app  
-- **IDE**: Anaconda (for data science & machine learning)  
-- **Programming Language**: Python (pip & conda)  
+- **Documentation**: Visual Studio Code, Obsidian [^1]
+- **Application**: A simple Python app showing ISS information
+- **IDE**: Visual Studio Code 
+- **Programming Language**: Python
 - **Version Control**: Git  
 - **Framework:** Flask (Python based framework for dynamic content) 
 
@@ -30,6 +30,8 @@ This repository documents my process of building a **DevOps workflow** from scra
 - **Infrastructure as Code (IaC)**: Terraform (provisions cloud resources)  
 - **Monitoring**: Prometheus  
 - **Observability & Dashboards**: Grafana  
+
+[^1]: I started using Obsidian for its bidirectional linking and graph view features, but switched to VS Code as those advanced features were not essential for my workflow.
 
 ---
 ## **Repositories & Organization**
