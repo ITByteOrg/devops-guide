@@ -31,7 +31,7 @@ This repository documents my process of building a **DevOps workflow** from scra
 - **Monitoring**: Prometheus  
 - **Observability & Dashboards**: Grafana  
 
-[^1]: I started using Obsidian for its bidirectional linking and graph view features, but switched to VS Code as those advanced features were not essential for my workflow.
+[^1]: I started using Obsidian for its bidirectional linking and graph view features, but switched to VS Code for day to day documentation. Obsidian is still used for graph view. 
 
 ---
 ## **Repositories & Organization**
