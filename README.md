@@ -50,6 +50,17 @@ This repository is part of a broader DevOps stack, broken into specialized repos
 | `devops-ahk`        | AHK automation scripts (for efficiency)                        |
 
 ---
+## Repository Security
+
+Security is a core part of this DevOps journey. All repositories follow these practices:
+- Branch protection rules and required reviews
+- Secrets management (never commit secrets; use GitHub Secrets or Vault)
+- Automated security scanning (see `devops-security`)
+- Regular dependency updates and vulnerability checks
+
+For full details, see the [Security Practices](#repository-security) section in this guide.
+
+---
 ## License
 This project is licensed under **Creative Commons Attribution 4.0 International License (CC-BY-4.0).  
 🔗 **Full license details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
