@@ -29,9 +29,12 @@ All repositories in this organization adhere to strict security standards to pro
 
 - **Incident Response:**  
   Security incidents are reported and handled promptly. See the [Contact](#contact) section below.
+ ---
+## Next Step
+
+For a detailed list of security tools used in this DevOps workflow, see_ [**Security-Tools**](security-tools.md).
 
 ---
-
 ## Reporting Vulnerabilities
 
 If you discover a security vulnerability, please report it responsibly by opening a private issue or contacting the repository maintainer directly.

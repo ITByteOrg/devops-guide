@@ -3,7 +3,9 @@ _A hands-on journey in building a complete DevOps stack from the ground up, expl
 
 ---
 ## Overview
-This repository documents my process of building a **DevOps workflow** from scratch, focusing on automation, infrastructure, security, and observability.
+This repository documents my process of building a **DevOps workflow** from scratch, focusing on automation, infrastructure, security, and observability. The challenge is to set it up using free tools, showing how DevOps principles can be implemented without costly investments.
+
+While free tools may not be suitable for high-demand production environments, this experiment provides a foundation for learning. The goal is to create a working framework that I and others can use to swap out tools that better handle production-scale workloads.
 
 ---
 ## DevOps Stack
@@ -17,7 +19,7 @@ This repository documents my process of building a **DevOps workflow** from scra
 
 ### CI/CD & Security
 - **Continuous Integration & Delivery**: GitHub Actions (YAML workflows & automation)  
-- **Security Scanning**: SonarQube, Checkmarx, BlackDuck, TruffleHog, Prisma Cloud  
+- **Security Scanning**:  [**SECURITY**](SECURITY.md)  
 
 ### Infrastructure & Cloud
 - **Cloud Provider**: Google Cloud Platform (dev-instance, UAT-instance, prod-instance)  
@@ -50,15 +52,9 @@ This repository is part of a broader DevOps stack, broken into specialized repos
 | `devops-ahk`        | AHK automation scripts (for efficiency)                        |
 
 ---
-## Repository Security
+## Next Step
 
-Security is a core part of this DevOps journey. All repositories follow these practices:
-- Branch protection rules and required reviews
-- Secrets management (never commit secrets; use GitHub Secrets or Vault)
-- Automated security scanning (see `devops-security`)
-- Regular dependency updates and vulnerability checks
-
-For full details, see the [Security Practices](#repository-security) section in this guide.
+Ready for a journey?  [**Start-Here**](start-here.md), 
 
 ---
 ## License
