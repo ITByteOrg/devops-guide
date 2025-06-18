@@ -1,3 +1,6 @@
+### ℹ️ Documentation Notice
+This repository is actively evolving. Some documentation is incomplete, and certain links or references may be out of date while improvements are in progress. The structure, content, and tooling may change frequently as this guide matures. Contributions are currently closed while refinement is underway.
+
 # My DevOps Journey
 
 ## Introduction
@@ -26,12 +29,12 @@ Before creating your GitHub account and repositories, consider the following imp
 - [ ] **Email Selection** → Use a **dedicated email** for GitHub instead of your personal one.  
 - [ ] **Email Privacy Settings** → Set your email as **private** in GitHub’s settings to prevent spam.  
 - [ ] **Repository Visibility** → Double-check your repo settings before pushing sensitive data.  
-- [ ] **Create Your Repository** → _Search for "How to create a GitHub repository" online and follow the latest instructions from GitHub’s official docs._  
+- [ ] **Create Your Repository** → _Search for "How to create a GitHub account" online and follow the latest instructions from GitHub’s official docs._  
 
 ---
 ## Confirm GitHub Account Creation
 
-Before proceeding to [**Setup GitHub Repositories**](setup-github-repositories.md), ensure that you have successfully created your GitHub account. If you haven’t, refer to the **previous section** before continuing.
+Before proceeding to [**Setup GitHub Repositories**](setup-github-repositories.md), ensure you have successfully created your GitHub account. 
 
 ---
 ## AI is Your Friend 🤖  
