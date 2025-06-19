@@ -64,10 +64,11 @@ Ready for a journey?  [**Start-Here**](start-here.md),
 This project is licensed under **Creative Commons Attribution 4.0 International License (CC-BY-4.0).  
 🔗 **Full license details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
----
-## Contributions
-At this time, this repository is not open for external contributions. However, you are welcome to explore the content, learn from it, and use it within the terms of the **CC-BY-4.0** license. Thank you for your interest!
+## Contributing
 
----
-## Contact
-For questions or suggestions, reach out via [GitHub Issues](https://github.com/ITByteEnthusiast/devops-guide/issues).
+While this project is publicly available under an open license, contributions are currently not being accepted.
+
+You're welcome to use, fork, or adapt the scripts for your infrastructure work. If you find them helpful, a star or mention is always appreciated.
+
+## Maintainer
+Developed and maintained by ITByteEnthusiast.
