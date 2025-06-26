@@ -8,7 +8,7 @@ _A hands-on journey in building a complete DevOps stack from the ground up, expl
 ## Overview
 This repository documents my process of building a **DevOps workflow** from scratch, focusing on automation, infrastructure, security, and observability. The challenge is to set it up using free tools, showing how DevOps principles can be implemented without costly investments.
 
-While free tools may not be suitable for high-demand production environments, this experiment provides a foundation for learning. The goal is to create a working framework that I and others can use to swap out tools that better handle production-scale workloads.
+While free tools are not suitable for high-demand production environments, this experiment provides a foundation for learning. The goal is to create a working framework that I can use to swap out tools that better handle production-scale workloads.
 
 ---
 ## DevOps Stack
@@ -22,7 +22,7 @@ While free tools may not be suitable for high-demand production environments, th
 
 ### CI/CD & Security
 - **Continuous Integration & Delivery**: GitHub Actions (YAML workflows & automation)  
-- **Security Scanning**:  [**SECURITY**](SECURITY.md)  
+- **Security Scanning**: For details on how security is set up, see the [README in devops-security](https://github.com/ITByteEnthusiast/devops-security/blob/main/README.md).
 
 ### Infrastructure & Cloud
 - **Cloud Provider**: Google Cloud Platform (dev-instance, UAT-instance, prod-instance)  
