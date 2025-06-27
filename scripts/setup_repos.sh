@@ -11,7 +11,7 @@ BASE_DIR="C:/GitRepos"
 LICENSE_SOURCE="$BASE_DIR/devops-guide/LICENSE.md"
 
 # GitHub username <<update this>>
-GITHUB_USER="ITByteEnthusiast"
+GITHUB_USER="YOUR_GITHUB_USERNAME"
 
 # Create base directory if it doesn't exist
 mkdir -p "$BASE_DIR"

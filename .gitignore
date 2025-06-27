@@ -4,3 +4,10 @@
 # Ignore system-generated files
 .DS_Store
 .trash/
+
+# ignore venv
+.venv/
+venv/ 
+
+# Ignore environment files
+.env
