@@ -14,7 +14,7 @@ Below are the repositories that will be created, each serving a distinct purpose
 | `devops-infra`      | Infrastructure as Code (Terraform, Ansible), Kubernetes manifests, cloud provisioning |
 | `devops-security`   | Configurations for SonarQube, Checkmarx, Prisma, and other security scanning tools    |
 | `devops-monitoring` | Prometheus and Grafana dashboards, alerting rules                                     |
-| `devops-ahk`        | Automation scripts for efficiency                                                     |
+
 ## Choose Your Approach
 
 There are multiple ways to set up repositories. Below are some common approaches. Choose the method that best fits your workflow:
@@ -42,5 +42,5 @@ There are multiple ways to set up repositories. Below are some common approaches
 - **Use BASH automation** for **efficiency and bulk repo creation**    
 - **Use Git commands** when **duplicating existing repositories**    
 - **Use GitHub’s web interface** if you **prefer a hands-on, manual setup**
-- _Other tools, such as GitHub Desktop, also provide ways to manage repositories. While not covered in this document, they may be useful depending on your workflow._
+- _Other tools, such as GitHub Desktop, also provide ways to manage repositories. While not covered in this document, it may be useful depending on your workflow._
 
