@@ -22,7 +22,7 @@ While free tools are not suitable for high-demand production environments, this 
 
 ### CI/CD & Security
 - **Continuous Integration & Delivery**: GitHub Actions (YAML workflows & automation)  
-- **Security Scanning**: For details on how security is set up, see the [README in devops-security](https://github.com/ITByteEnthusiast/devops-security/blob/main/README.md).
+- **Security Scanning**: For details on how security is set up, see the [Security Tools](security/security-tools.md)
 
 ### Infrastructure & Cloud
 - **Cloud Provider**: Google Cloud Platform (dev-instance, UAT-instance, prod-instance)  
@@ -51,13 +51,13 @@ This repository is part of a broader DevOps stack, broken into specialized repos
 | `devops-world`      | Python app code, CI/CD workflows, dependencies                 |
 | `devops-infra`      | Terraform, Ansible, K8s manifests, cloud provisioning          |
 | `devops-security`   | Security scanning configs (SonarQube, Checkmarx, Prisma, etc.) |
-| `devops-monitoring` | Prometheus, Grafana dashboards, alerting rules                 |
-| `devops-ahk`        | AHK automation scripts (for efficiency)                        |
+| `devops-monitoring` | to be created: Prometheus, Grafana dashboards, alerting rules  |
+
 
 ---
 ## Next Step
 
-Ready for a journey?  [**Start-Here**](start-here.md), 
+Ready for a journey? [Start Here](onboarding/start-here.md)
 
 ---
 ## License
