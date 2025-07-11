@@ -1,25 +1,16 @@
-# Table of Contents
-
-## Setup
-
-- [Bash Repo Setup](setup/bash-repo-setup.md)
-- [Manual Github Setup](setup/manual-github-setup.md)
-- [Setup Github Repositories](setup/setup-github-repositories.md)
-
-## Workflow Policies
-
-- [Branch Rulesets](policies/branch-rulesets.md)
-
-## Security
-
-- [Security Tools](security/security-tools.md)
-
-## Weekly Updates
-
-- [2025 07 08 Weekly Update](weekly-updates/2025-07-08-weekly-update.md)
-- [Index](weekly-updates/index.md)
-
-## Onboarding
-
-- [Navigation](onboarding/navigation.md)
-- [Start Here](onboarding/start-here.md)
+[bash-repo-setup (operations)](operations/bash-repo-setup.md)<br>
+[branch-rulesets (governance)](governance/branch-rulesets.md)<br>
+[ICON_LICENSE (shared)](.venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md)<br>
+[index (updates)](updates/index.md)<br>
+[job-manifest (ci-reference)](docs/ci-reference/job-manifest.md)<br>
+[LICENSE (devops-guide)](LICENSE.md)<br>
+[LICENSE (idna-3.10.dist-info)](.venv/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md)<br>
+[manual-github-setup (infrastructure)](infrastructure/manual-github-setup.md)<br>
+[navigation (onboarding)](onboarding/navigation.md)<br>
+[README (devops-guide)](README.md)<br>
+[README (sansio)](.venv/lib/python3.12/site-packages/flask/sansio/README.md)<br>
+[security-tools (security)](security/security-tools.md)<br>
+[setup-github-repositories (operations)](operations/setup-github-repositories.md)<br>
+[start-here (onboarding)](onboarding/start-here.md)<br>
+[workflow-diagnostics (ci-reference)](docs/ci-reference/workflow-diagnostics.md)<br>
+[workflow-routes (ci-reference)](docs/ci-reference/workflow-routes.md)<br>

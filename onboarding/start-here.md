@@ -14,7 +14,7 @@ To make this project accessible as a learning experience, I’ve selected tools 
 ---
 ## Documenting the Process
 
-Rather than listing every step in extreme detail, this guide focuses on documenting the **workflow** from start to finish. Each repository setup method follows this approach. Having written that, I immediately broke my own rule and started documenting each step in the next section. That's because it is the documentation style I'm used to. I'll change those to overviews as the process evolves.
+Rather than listing every step in extreme detail, this guide documents the workflow lifecycle from setup to execution. The emphasis is on how repos are structured, interconnected and automated and not the granular shell commands behind them. 
 
 📌 If you require specific instructions on a particular GitHub action, searching online will provide the **most up-to-date information**, ensuring you have access to the latest best practices and tools.  
 
@@ -32,7 +32,7 @@ Before creating your GitHub account and repositories, consider the following imp
 ---
 ## Confirm GitHub Account Creation
 
-After creating the Git account, it was time to [Setup Github Repositories](../Setup/setup-github-repositories.md)
+After creating the Git account, it is time to [Setup Github Repositories](../Setup/setup-github-repositories.md)
 
 ---
 ## AI is Your Friend 🤖  
