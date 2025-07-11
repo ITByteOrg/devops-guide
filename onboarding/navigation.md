@@ -6,7 +6,7 @@ Welcome to the DevOps Guide repository. This document outlines the suggested rea
 
 ## Repo Overview
 
-- [README](README.md)
+- [README](../README.md)
 
 ---
 
@@ -40,7 +40,7 @@ Explore how jobs and workflows are configured across the application:
 
 Understand operational standards, policies, and security tooling used across projects:
 
-- [Branch Rulesets](../governance/branch-ruleset.md)
+- [Branch Rulesets](../governance/branch-rulesets.md)
 - [Security Tools Overview](../security/security-tools.md)
 
 ---
@@ -49,6 +49,7 @@ Understand operational standards, policies, and security tooling used across pro
 
 Automation and helper utilities referenced throughout the documentation:
 
+- [Broken Link Finder](../scripts/BrokenLink_Finder.ps1)
 - [Repository Setup Script](../scripts/setup_repos.sh)
 - [TOC Generator](../scripts/generate_toc.py)
 
@@ -64,4 +65,4 @@ Ongoing changes, tooling refinements, and documentation revisions:
 
 ## Index
 
-Refer to [TOC.md](TOC.md) for a complete listing of markdown documentation by topic.
+Refer to [TOC.md](../TOC.md) for a complete listing of markdown documentation by topic.
