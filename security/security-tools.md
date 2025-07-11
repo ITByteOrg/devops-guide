@@ -1,8 +1,10 @@
+# Security Tools
+
 ## Overview
 
 This working document lists planned security tools across the DevOps workflow. It includes static analysis, dependency validation, and secret scanning modules. Some tools are pending implementation as infrastructure and pipelines evolve.
 
-Note: Lightweight developer-facing security tools (e.g. Bandit for Python) may reside within this devops-world repository to support pre-commit hygiene and local linting. Centralized scanners (e.g. TruffleHog, Semgrep, SonarQube) are maintained in the `devops-security` repository to ensure separation of concerns and audit integrity.
+Note: Lightweight developer-facing security tools (e.g. Bandit for Python) will reside within the devops-world repository to support pre-commit hygiene and local linting. Centralized scanners (e.g. TruffleHog, Semgrep, SonarQube) are maintained in the `devops-security` repository to ensure separation of concerns and audit integrity.
 
 ---
 

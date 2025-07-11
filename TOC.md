@@ -1,25 +1,20 @@
-# Table of Contents
-
-## Setup
-
-- [Bash Repo Setup](setup/bash-repo-setup.md)
-- [Manual Github Setup](setup/manual-github-setup.md)
-- [Setup Github Repositories](setup/setup-github-repositories.md)
-
-## Workflow Policies
-
-- [Branch Rulesets](policies/branch-rulesets.md)
-
-## Security
-
-- [Security Tools](security/security-tools.md)
-
-## Weekly Updates
-
-- [2025 07 08 Weekly Update](weekly-updates/2025-07-08-weekly-update.md)
-- [Index](weekly-updates/index.md)
+# DevOps Guide - Table of Contents
 
 ## Onboarding
+- [My DevOps Journey](onboarding/start-here.md)
+- [Navigation Guide](onboarding/navigation.md)
 
-- [Navigation](onboarding/navigation.md)
-- [Start Here](onboarding/start-here.md)
+## Setup
+- [Setup GitHub Repositories (Overview)](operations/setup-github-repositories.md)
+
+## Repository Reference
+- [GitHub Actions Job Manifest](docs/ci-reference/job-manifest.md)
+- [GitHub Actions Workflow-to-Job Map](docs/ci-reference/workflow-routes.md)
+- [GitHub Workflow Diagnostics Guide](docs/ci-reference/workflow-diagnostics.md)
+
+## Governance & Security
+- [Branch Rulesets](governance/branch-rulesets.md)
+- [Security Tools](security/security-tools.md)
+
+## Other Notes
+- [README](README.md)
