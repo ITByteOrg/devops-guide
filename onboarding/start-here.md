@@ -32,7 +32,7 @@ Before creating your GitHub account and repositories, consider the following imp
 ---
 ## Confirm GitHub Account Creation
 
-After creating the Git account, it is time to [Setup Github Repositories](../Setup/setup-github-repositories.md)
+After creating the Git account, it is time to [Setup Github Repositories](../operations/setup-github-repositories.md)
 
 ---
 ## AI is Your Friend 🤖  

@@ -17,8 +17,6 @@ On the `main` branch, these settings are enforced:
 - Conversations must be resolved before merging  
 - Admins follow the same rules and cannot bypass protections
 
-Settings are defined in the [`protect-main` ruleset](https://github.com/ITByteOrg/devops-security/settings/rules/6255954) and apply to all repositories matching the `devops*` naming pattern.
-
 ## Pull Request Review Handoff
 
 Both `itbyteenthusiast` and `ITByteLead` belong to the same maintainer. To maintain separation of duties, this workflow is followed:
@@ -26,10 +24,10 @@ Both `itbyteenthusiast` and `ITByteLead` belong to the same maintainer. To maint
 - `itbyteenthusiast` opens and submits the pull request  
 - `ITByteLead` reviews and approves it  
 
-This prevents self-approval and keeps all changes compliant with CODEOWNER rules. GitHub blocks approval if the author and approver share the same role for the files involved. Admin accounts follow the same policy since bypass permissions have been removed.
+To simulate a real-world approval process, separate contributor accounts were created. This prevents self-approval and enforces CODEOWNERS rules consistently. GitHub will block approval if the author and approver share the same role for affected files. Admins follow the same restrictions, as bypass permissions have been intentionally removed.
 
 ## Next Step
 
 Set up the first security tool integration.
 
-Developer-facing tools such as Bandit will be added to `devops-world` to support pre-commit hygiene. Centralized scanners like TruffleHog, Semgrep, and SonarQube will be managed in `devops-security` to maintain separation of responsibilities and meet audit standards.
+TruffleHog has been added to devops-security as the first centralized scanning tool. Additional platforms—such as Semgrep and SonarQube—will be integrated gradually to expand coverage. Developer-facing utilities like Bandit have already been introduced to devops-world for pre-commit hygiene, maintaining separation of responsibilities while aligning with audit standards.

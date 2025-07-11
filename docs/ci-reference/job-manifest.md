@@ -11,9 +11,10 @@ This document catalogs all jobs used in GitHub Actions workflows within `ITByteO
 | build-and-push | docker-release.yml | Build and push Docker image on main and release branches |
 | env-dump | env-context-dump.yml | Diagnostic Tool: Dump GitHub Actions context and environment variables |
 | lint-and-build | pr-validation.yml | Lint and build Dockerfile in pull requests |
-| secret_scanning | security_scan.yml | Run security scans on the codebase |
+| secret-scanning | security-scan.yml | Run security scans on the codebase |
 <!-- badges-end -->
 
 ## Workflow Diagnostics
 
 Jobs marked as diagnostic tools—such as `branch-debug` or `env-dump`—are manually triggered and used for inspection and troubleshooting. Usage instructions are available in [workflow-diagnostics.md](workflow-diagnostics.md).
+

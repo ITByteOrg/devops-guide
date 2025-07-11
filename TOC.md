@@ -1,16 +1,20 @@
-[bash-repo-setup (operations)](operations/bash-repo-setup.md)<br>
-[branch-rulesets (governance)](governance/branch-rulesets.md)<br>
-[ICON_LICENSE (shared)](.venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md)<br>
-[index (updates)](updates/index.md)<br>
-[job-manifest (ci-reference)](docs/ci-reference/job-manifest.md)<br>
-[LICENSE (devops-guide)](LICENSE.md)<br>
-[LICENSE (idna-3.10.dist-info)](.venv/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md)<br>
-[manual-github-setup (infrastructure)](infrastructure/manual-github-setup.md)<br>
-[navigation (onboarding)](onboarding/navigation.md)<br>
-[README (devops-guide)](README.md)<br>
-[README (sansio)](.venv/lib/python3.12/site-packages/flask/sansio/README.md)<br>
-[security-tools (security)](security/security-tools.md)<br>
-[setup-github-repositories (operations)](operations/setup-github-repositories.md)<br>
-[start-here (onboarding)](onboarding/start-here.md)<br>
-[workflow-diagnostics (ci-reference)](docs/ci-reference/workflow-diagnostics.md)<br>
-[workflow-routes (ci-reference)](docs/ci-reference/workflow-routes.md)<br>
+# DevOps Guide - Table of Contents
+
+## Onboarding
+- [My DevOps Journey](onboarding/start-here.md)
+- [Navigation Guide](onboarding/navigation.md)
+
+## Setup
+- [Setup GitHub Repositories (Overview)](operations/setup-github-repositories.md)
+
+## Repository Reference
+- [GitHub Actions Job Manifest](docs/ci-reference/job-manifest.md)
+- [GitHub Actions Workflow-to-Job Map](docs/ci-reference/workflow-routes.md)
+- [GitHub Workflow Diagnostics Guide](docs/ci-reference/workflow-diagnostics.md)
+
+## Governance & Security
+- [Branch Rulesets](governance/branch-rulesets.md)
+- [Security Tools](security/security-tools.md)
+
+## Other Notes
+- [README](README.md)
