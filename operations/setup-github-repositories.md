@@ -40,5 +40,9 @@ See [`/scripts/setup_repos.sh`](../scripts/setup_repos.sh) for a starter script.
 - Use **automation** to replicate structure quickly across multiple repositories  
 - GitHub Desktop, templates, and other tools may offer additional workflows—choose the method that best supports how your team works
 
+## Orientation Guide ## 
+
+You've just initialized the core scaffolding. To get oriented across roles and responsibilities, head over to [Navigation](../onboarding/navigation.md). Weekly updates have recently been added to shift toward more high-level documentation. The goal is to reduce granular detail and emphasize the reasoning behind structural decisions. Browse [updates](/updates/index.md) to follow how things evolve.
+
 > _Other tools, such as GitHub Desktop, also provide ways to manage repositories. While not covered in this document, it may be useful depending on your workflow._
 

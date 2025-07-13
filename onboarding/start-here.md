@@ -30,6 +30,10 @@ Before creating your GitHub account and repositories, consider the following imp
 - [ ] **Create Your Repository** → _Search for "How to create a GitHub account" online and follow the latest instructions from GitHub’s official docs._  
 
 ---
+## Orientation Guide ## 
+
+If you'd like to explore before continuing with repository setup, head over to [Navigation](navigation.md). Weekly updates have recently been introduced to support a shift toward high-level documentation. The focus is now on reducing granular detail and emphasizing the reasoning behind structural decisions. Browse [updates](/updates/index.md) to see how things evolve.
+---
 ## Confirm GitHub Account Creation
 
 After creating the Git account, it is time to [Setup Github Repositories](../operations/setup-github-repositories.md)

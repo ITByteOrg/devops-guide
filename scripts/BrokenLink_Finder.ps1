@@ -19,7 +19,19 @@ MIT License
 File Name : BrokenLink_Finder.ps1
 Module Path : devops-guide/scripts/
 Tags       : Documentation Automation, Link Validation, CI Linting
+
+.SYNTAX
+BrokenLink_Finder.ps1 [-ShowAllLinks]
+
+.PARAMETER ShowAllLinks
+If specified, displays a table of all links (broken and good ones)
+If not specified, only shows a summary of broken links if there are any.
+
 #>
+
+param (
+    [switch]$ShowAllLinks
+)
 
 
 # Function to test external HTTP links
@@ -42,10 +54,10 @@ $mdFiles = Get-ChildItem -Path $repoRoot -Recurse -Filter *.md
 
 # Collection to track broken links
 $brokenLinks = @()
+$tableHeaderPrinted = $false
 
 # Print Markdown table header
-Write-Output "`n| **Filename** | **Link Text** | **Link Target** | **Status** |"
-Write-Output "|--------------|---------------|------------------|-----------|"
+Write-Output "Searching for broken links in Markdown files..."
 
 foreach ($file in $mdFiles) {
     $lines = Get-Content $file.FullName
@@ -59,12 +71,19 @@ foreach ($file in $mdFiles) {
             $endParen = $trimmedLine.IndexOf(")", $middle)
 
             if ($startBracket -ge 0 -and $middle -gt $startBracket -and $endParen -gt $middle) {
+                
+                # Valid markdown link format
                 $linkText   = $trimmedLine.Substring($startBracket + 1, $middle - $startBracket - 1)
                 $linkTarget = $trimmedLine.Substring($middle + 2, $endParen - $middle - 2)
 
                 # Resolve status: external or relative
                 if ($linkTarget -like "http*") {
                     $status = Test-LinkStatus $linkTarget
+                    if ($status -eq "200") {
+                        $status = "OK"
+                    } else {
+                        $status = "Unknown HTTP Status: $status"
+                    }
                 } else {
                     $fullPath = Join-Path $file.Directory.FullName $linkTarget
                     $status = if (Test-Path $fullPath) { "OK" } else { "Missing" }
@@ -80,15 +99,26 @@ foreach ($file in $mdFiles) {
                     }
                 }
 
-                Write-Output "| $relativePath | $linkText | $linkTarget | $status |"
+                # Output link details if ShowAllLinks is enabled
+                if ($ShowAllLinks -and -not $tableHeaderPrinted) {        
+                    Write-Output "`n| **Filename** | **Link Text** | **Link Target** | **Status** |"
+                    Write-Output "|--------------|---------------|------------------|-----------|"
+                    $tableHeaderPrinted = $true
+                }
+                
+                if ($ShowAllLinks) {
+                    Write-Output "| $relativePath | $linkText | $linkTarget | $status |"
+                }
             } else {
-                Write-Output "| $relativePath | *Unable to parse* | $line | - |"
+                Write-Host "Debug: Invalid link format in file "$($file.FullName)"": $
             }
         }
     }
 }
 
+
 # 🔎 Broken Link Summary
+Write-Output "Broken link scan completed.`n"
 Write-Output "`n### Broken Link Summary"
 
 if ($brokenLinks.Count -eq 0) {
