@@ -1,6 +1,6 @@
 # Navigation Guide
 
-Welcome to the DevOps Guide repository. This document outlines the suggested reading order for key resources. It’s organized to help new contributors onboard quickly and navigate the structure efficiently.
+Welcome to the DevOps Guide repository. This document outlines the suggested reading order for key resources. It’s organized to help new contributors onboard quickly and navigate the structure efficiently. This guide is your compass for navigating the DevOps documentation ecosystem. If you're curious about how and why this structure evolves, follow along in [updates](../updates/index.md).
 
 ---
 

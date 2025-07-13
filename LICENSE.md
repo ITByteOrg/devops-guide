@@ -4,8 +4,8 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 You are free to **share** (copy, distribute, and transmit) and **adapt** (remix, transform, and build upon) this work **for any purpose, including commercial use**, as long as you **give proper attribution**.
 
 ## Attribution Requirements
-- **Credit must be given to:** [ITByteEnthusiast](https://github.com/ITByteEnthusiast)  
-- **Original repository:** [ITByteEnthusiast/devops-guide](https://github.com/ITByteEnthusiast/devops-guide)  
+- **Credit must be given to:** [ITByteOrg](https://github.com/ITByteOrg)  
+- **Original repository:** [ITByteOrg/devops-guide](https://github.com/ITByteOrg/devops-guide)  
 - **License details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)  
 - **Modifications:** If modified, changes must be clearly stated.  
 

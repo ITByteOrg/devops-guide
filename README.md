@@ -42,6 +42,13 @@ While free tools are not suitable for high-demand production environments, this 
 [^1]: I started using Obsidian for its bidirectional linking and graph view features, but switched to VS Code for day to day documentation. Obsidian is still used for graph view. 
 
 ---
+
+## Orientation Guide ## 
+
+For those that are ready to explore and get oriented across roles and responsibilities, head over to [Navigation](/onboarding/navigation.md). Weekly updates have recently been added to shift toward more high-level documentation. The goal is to reduce granular detail and emphasize the reasoning behind structural decisions. Browse [updates](/updates/index.md) to follow how things evolve.
+
+
+---
 ## Repositories & Organization
 This repository is part of a broader DevOps stack, broken into specialized repositories:
 
