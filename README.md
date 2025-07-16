@@ -67,15 +67,18 @@ This repository is part of a broader DevOps stack, broken into specialized repos
 Ready for a journey? [Start Here](onboarding/start-here.md)
 
 ---
-## License
-This project is licensed under **Creative Commons Attribution 4.0 International License (CC-BY-4.0).  
-🔗 **Full license details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
-
 ## Contributing
 
-While this project is publicly available under an open license, contributions are currently not being accepted.
+This project is shared under the **CC-BY-4.0** license and may be used or adapted freely.
 
-You're welcome to use, fork, or adapt the scripts for your infrastructure work. If you find them helpful, a star or mention is always appreciated.
+While formal contributions (e.g. pull requests) aren't currently accepted, feedback or ideas are always welcome via issues or mentions.
+
+If the tools prove useful, feel free to star or fork for your own use.
 
 ## Maintainer
 Developed and maintained by ITByteEnthusiast.
+
+---
+## License
+This project is licensed under **Creative Commons Attribution 4.0 International License (CC-BY-4.0).  
+🔗 **Full license details:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
