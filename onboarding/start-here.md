@@ -33,6 +33,7 @@ Before creating your GitHub account and repositories, consider the following imp
 ## Orientation Guide ## 
 
 If you'd like to explore before continuing with repository setup, head over to [Navigation](navigation.md). Weekly updates have recently been introduced to support a shift toward high-level documentation. The focus is now on reducing granular detail and emphasizing the reasoning behind structural decisions. Browse [updates](/updates/index.md) to see how things evolve.
+
 ---
 ## Confirm GitHub Account Creation
 
